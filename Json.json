@@ -1,7 +1,14 @@
 {
-  "devices": [
-    "device_id_1",
-    "unique_device_id_2",
-    "ac58b3d8f6b9bc9c"
-  ]
+    "devices": [
+        "device_id_1",
+        "unique_device_id_2",
+        "ac58b3d8f6b9bc9c"
+    ],
+    "users": [
+        {
+            "device": "ac58b3d8f6b9bc9c b",
+            "name": "Ok",
+            "email": "hannab.ark.ebr7.0.9@gmail.com"
+        }
+    ]
 }
