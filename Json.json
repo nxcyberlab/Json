@@ -14,6 +14,11 @@
             "device": "xyz",
             "name": "Xzy",
             "email": "xyz@x.com"
+        },
+        {
+            "device": "xyzd@x.com",
+            "name": "xyzd@x.com",
+            "email": "xyzd@x.com"
         }
     ]
 }
