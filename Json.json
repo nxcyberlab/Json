@@ -1,24 +1,7 @@
 {
-    "devices": [
-        "device_id_1",
-        "unique_device_id_2",
-        "ac58b3d8f6b9bc9c"
-    ],
-    "users": [
-        {
-            "device": "ac58b3d8f6b9bc9c b",
-            "name": "Ok",
-            "email": "hannab.ark.ebr7.0.9@gmail.com"
-        },
-        {
-            "device": "xyz",
-            "name": "Xzy",
-            "email": "xyz@x.com"
-        },
-        {
-            "device": "xyzd@x.com",
-            "name": "xyzd@x.com",
-            "email": "xyzd@x.com"
-        }
-    ]
+  "allowed_device_ids": [
+    "device_id_1",
+    "device_id_2",
+    "another_android_id"
+  ]
 }
