@@ -1,8 +1,6 @@
 {
-  "current": {
-    "title": "New Feature Released!",
-    "message": "আপডেট করা হয়েছে। নতুন সিস্টেম এখন কাজ করছে।",
-    "url": "https://yourlink.com",
-    "time": "1719223020"
-  }
+  "title": "New Feature Released!",
+  "message": "নতুন ফিচার এখন ব্যবহার করতে পারো!",
+  "url": "https://newlink.com",
+  "time": "1719230000"
 }
