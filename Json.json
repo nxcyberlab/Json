@@ -1,7 +1,7 @@
 {
   "allowed_device_ids": [
     "device_id_1",
-    "device_id_2",
-    "ac58b3d8f6b9bc9c"
+    "ac58b3d8f6b9bc9c",
+    "another_android_id"
   ]
 }
